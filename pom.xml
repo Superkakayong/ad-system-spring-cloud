@@ -34,7 +34,8 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.16.18</version>
+            <version>1.18.24</version>
+<!--            got error during jar Eureka Server building in when lombok version is too low-->
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
