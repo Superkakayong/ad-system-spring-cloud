@@ -65,3 +65,4 @@ fabric.properties
 # modules.xml
 
 .idea/
+*.DS_Store
