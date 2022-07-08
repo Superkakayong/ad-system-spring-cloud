@@ -12,6 +12,7 @@
     <modules>
         <module>ad-eureka</module>
         <module>ad-gateway</module>
+        <module>ad-system-service</module>
     </modules>
 
     <name>ad-system-spring-cloud</name>
